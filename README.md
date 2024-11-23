@@ -1,4 +1,4 @@
-# Project Mentor
+# PlanB Production
 
 _project description_
 
@@ -20,7 +20,7 @@ Follow these steps to get the project up and running on your local machine:
 1. Clone the repository or download the project ZIP file:
 
    ```bash
-   git clone https://github.com/chubinaaa/DOER-team4-FE.git ./
+   git clone https://github.com/panqvela18/PlanB-Production.git 
    ```
 
 2. Install project dependencies:
